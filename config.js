@@ -1,7 +1,7 @@
 let fs = require('fs') 
 let chalk = require('chalk')
 
-global.owner = [
+global.owner = [VnzyBott]
   ['6285770450885'],
   ['6285770450885'],
   ['6285770450885', 'Owner', true]
